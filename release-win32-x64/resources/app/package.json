@@ -1,0 +1,20 @@
+{
+  "name": "dystolab",
+  "version": "1.0.0",
+  "description": "dystolab for desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "dystolab",
+    "dystolab"
+  ],
+  "author": "akatsuki-team",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^8.2.5",
+    "electron-packager": "^14.2.1"
+  }
+}

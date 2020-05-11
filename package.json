@@ -1,0 +1,17 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "electron for desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "custumIdx-team",
+  "devDependencies": {
+    "electron": "^8.2.5",
+    "electron-packager": "^14.2.1"
+  }
+}
